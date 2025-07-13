@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Max Epinat</h1>
 <h3 align="center">A passionate developer from France 🇫🇷🥖</h3>
 
-- 🌱 I’m currently learning **C and Java**
+- 🌱 I’m currently learning **C and C++**
 
 - 📫 How to reach me **max.epinat@epitech.eu**
 
